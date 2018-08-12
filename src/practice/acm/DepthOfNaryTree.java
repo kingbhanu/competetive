@@ -1,14 +1,11 @@
-package practice;
-
-
-// @problem : https://helloacm.com/c-coding-exercise-find-maximum-depth-of-n-ary-tree/
-
-import sun.jvm.hotspot.utilities.Assert;
+package practice.acm;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
+
+// @problem : https://helloacm.com/c-coding-exercise-find-maximum-depth-of-n-ary-tree/
 
 public class DepthOfNaryTree {
 
