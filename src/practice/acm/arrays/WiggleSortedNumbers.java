@@ -1,4 +1,4 @@
-package practice.acm;
+package practice.acm.misc;
 
 import java.util.Arrays;
 
