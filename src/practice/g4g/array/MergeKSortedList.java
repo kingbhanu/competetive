@@ -1,4 +1,4 @@
-package practice.g4g;
+package practice.g4g.array;
 
 
 // @problem :       https://www.geeksforgeeks.org/merge-k-sorted-linked-lists-set-2-using-min-heap/

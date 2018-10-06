@@ -1,4 +1,4 @@
-package practice.g4g;
+package practice.g4g.tree;
 
 
 // @problem : https://www.geeksforgeeks.org/diameter-of-a-binary-tree-in-on-a-new-method/

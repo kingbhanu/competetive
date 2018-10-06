@@ -1,4 +1,4 @@
-package practice.g4g;
+package practice.g4g.misc;
 
 
 // @problem : https://www.geeksforgeeks.org/find-smallest-value-represented-sum-subset-given-array/

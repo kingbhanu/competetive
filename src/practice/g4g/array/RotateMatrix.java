@@ -1,4 +1,4 @@
-package practice.g4g;
+package practice.g4g.array;
 
 
 // @problem : https://www.geeksforgeeks.org/rotate-matrix-90-degree-without-using-extra-space-set-2/
